@@ -1,0 +1,9 @@
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\ScientificCalculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
